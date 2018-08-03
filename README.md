@@ -1,2 +1,2 @@
 # Bioinformatics
-COMPGI10 - Bioinformatics (Mini Project)
+Predicting the subcellular location of eukaryotic proteins (Mini Project)
